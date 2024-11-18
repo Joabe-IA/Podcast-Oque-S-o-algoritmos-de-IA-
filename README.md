@@ -14,7 +14,7 @@ Este podcast de 2:34 minutos oferece um passeio rápido, mas profundo, ensinado 
 ## 🚀 Resultados
 O episódio é uma introdução acessível e estimulante ao campo de algoritmos de IA, ideal para quem busca uma compreensão rápida do assunto.
 
-[LINK PARA O PODCAST AQUI]()
+[LINK PARA O PODCAST AQUI](https://github.com/Joabe-IA/Podcast-Oque-S-o-algoritmos-de-IA-/blob/4cbde8ef2f663d26a6de10f46f14f61b5f5c9a76/O%20que%20s%C3%A3o%20algoritmos%20de%20IA.mp3)
 
 ## 💭 Reflexão
-O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
+O projeto destacou como os algoritmos de IA apreendem a compreender e recomendar assuntos postagens e palavras que sejam baseadas nos interesse e preferência de cada pessoa.Tambem demostrando que através dos algoritmos, a IA apreende sobe uma determinada tarefa a ser feita.
