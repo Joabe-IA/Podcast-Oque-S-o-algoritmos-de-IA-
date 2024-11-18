@@ -1,8 +1,11 @@
-
-
 <p align="center">
     <img width="100" src="https://github.com/Joabe-IA/Joabe-IA/blob/0661cfa8347a1e5e4d8eebc83ba099807d723dca/IMG-20241113-WA0027.jpg">
 </p>
+
+
+<p align="center">
+<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
+<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
 # Podcast: O que são algoritmos de IA? em 2:34 Minutos 🎙️
 
